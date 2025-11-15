@@ -1,0 +1,1 @@
+python scripts/resize_and_crop_images.py .\data\cards_special\ --width 400 --crop-x 15 --crop-y 45 --crop-width 370 --crop-height 425 --verbose
